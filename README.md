@@ -1,4 +1,4 @@
-## what
+## WHAT
 
 There's no Struts in WHAT. But now that we got your attention, what is WHAT?
 WHAT aims to be a showcase of best practices and approaches for developers and designers
