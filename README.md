@@ -1,5 +1,7 @@
 ## WHAT
 
+[![Join the chat at https://gitter.im/what-community/Lobby](https://badges.gitter.im/what-community/Lobby.svg)](https://gitter.im/what-community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 There's no Struts in WHAT. But now that we got your attention, what is WHAT?
 WHAT aims to be a showcase of best practices and approaches for developers and designers
 who want to build stunning mobile-first web apps with some of the best technologies
