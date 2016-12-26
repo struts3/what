@@ -22,6 +22,8 @@ We welcome scrutiny and feedback from anyone who tries to follow our approaches.
 We also welcome code contributions from seasoned system- and framework software 
 engineers and designers.
 
+Here is a related presentation: <https://www.masons-foundation.org/meetup/>
+
 
 # Getting started w/ a 'hello world':
 
@@ -36,12 +38,12 @@ Review /_sass in your IDE. If you edit a Sass file, it should generate and updat
 
 ### 4. Optional part II: We need to insert main menu at top of each page, but our site is static.
 
-If you don't know Pug, view 20 minutes intro: <http://youtube.com/watch?v=wzAWI9h3q18>
+If you don't know Pug, view 20 minutes intro: <http://youtube.com/watch?v=wzAWI9h3q18>.
 It's like Sass for HTML (or replacement/static version of JSP/ASP/PHP and such).
 
-Edit or 'touch' a pug file in /one. Your pre-processor (ex: prepros.io ) should generate HTML. We use a 'app shell' concept similar to PWA.
+Edit or 'touch' a pug file in /one folder. Your pre-processor (ex: prepros.io ) should generate HTML. We use a 'app shell' concept similar to PWA.
 
-### 5. You have SPA! Open browser to root or /
+### 5. You have a static SPA! Open browser to root or /
 Click on one menu, and other menu. Notice main menu on top does not load  or jank.
 
 Glance docs for <http://smoothstate.com> if needed. 
