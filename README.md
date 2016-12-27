@@ -24,7 +24,7 @@ engineers and designers.
 
 Here is a related presentation: <https://www.masons-foundation.org/meetup/>
 
-For discussion, comments and Q/A: <https://gitter.im/what-community/Lobby'>
+For discussion, comments and Q/A: <https://gitter.im/what-community/Lobby>
 
 Also, from time to time, usually one a month, we hold online training and an announcement will be posted in-there, so please join in any case. 
 
