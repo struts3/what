@@ -22,12 +22,6 @@ We welcome scrutiny and feedback from anyone who tries to follow our approaches.
 We also welcome code contributions from seasoned system- and framework software 
 engineers and designers.
 
-Here is a related presentation: <https://www.masons-foundation.org/meetup/>
-
-For discussion, comments and Q/A: <https://gitter.im/what-community/Lobby>
-
-Also, from time to time, usually one a month, we hold online training and an announcement will be posted in-there, so please join in any case. 
-
 
 # Getting started w/ a 'hello world':
 
@@ -54,3 +48,9 @@ Glance docs for <http://smoothstate.com> if needed.
 
 W.H.A.T. can make any page transition in SPA and SEO. As static, it can be CDN deployed, due to using micro-services. This is just a hello world example, an intro to futuristic best practices. 
 
+
+More examples <https://github.com/struts3/what-demos>
+
+For discussion, comments and Q/A: <https://gitter.im/what-community/Lobby>
+
+Also, from time to time, usually one a month, we hold online training and an announcement will be posted in-there, so please join in any case. 
